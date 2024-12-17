@@ -3,7 +3,7 @@
 🎯 **Desenvolvedor de Software em Formação | Entusiasta de Tecnologia**
 
 📍 São Paulo, Brasil  
-📧 [Email](mailto:viniciusaesouza@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/vinicius-saes) | 💻 [GitHub](https://github.com/ViniciuSaeSouza)  
+📧 [Email](mailto:viniciusaesouza@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/vinicius-saes) |
 
 ---
 
