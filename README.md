@@ -1,70 +1,90 @@
 # 👨‍💻 **Vinícius Saes**  
 
-🎯 **Desenvolvedor de Software em Formação | Entusiasta de Tecnologia**
+🎯 **Desenvolvedor de Software | Estudante de ADS | Apaixonado por Tecnologia**  
 
 📍 São Paulo, Brasil  
-📧 [Email](mailto:viniciusaesouza@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/vinicius-saes) |
+📧 [E-mail](mailto:viniciusaesouza@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/vinicius-saes) | 💻 [GitHub](https://github.com/ViniciuSaeSouza)  
 
 ---
 
-## 🌟 **Sobre Mim**
+## 🌟 **Sobre Mim**  
 
-Sou um **desenvolvedor de software apaixonado por tecnologia**, com experiência prática em várias linguagens e ferramentas. Estou sempre explorando novas soluções e aprimorando minhas competências para criar produtos e aplicações robustas. 
+Sou um **desenvolvedor de software em formação**, apaixonado por tecnologia e sempre em busca de desafios. Meu foco é desenvolvimento **backend**, APIs e banco de dados, com experiência prática em **Java, Python e Oracle SQL**.  
 
 - 🎓 **Educação:**  
-  - Superior em **Tecnologia em Análise e Desenvolvimento de Sistemas** na FIAP (Concluído em 2025).  
-  - Bacharelado em **Publicidade e Propaganda** pela Mackenzie (Concluído em 2020).  
+  - **Tecnologia em Análise e Desenvolvimento de Sistemas** – FIAP (Concluído em 2025).  
+  - **Bacharelado em Publicidade e Propaganda** – Mackenzie (Concluído em 2020).  
 
-- 💼 **Experiência Profissional:**  
-  - Á procura do primeiro estágio!
+- 💼 **Objetivo Profissional:**  
+  - Buscando meu primeiro **estágio em tecnologia** para aplicar e aprimorar meus conhecimentos.  
 
 ---
 
-## 🚀 **Habilidades Técnicas**
+## 🚀 **Habilidades Técnicas**  
 
-- **Linguagens de Programação:**  
-  - Proficiente: **Java**, **Python**, **Oracle SQL**.  
-  - Intermediário: **JavaScript/TypeScript**, **HTML**, **CSS**.  
+- **Linguagens:**  
+  - **Java**, **Python**, **Oracle SQL** (Proficiente)  
+  - **JavaScript/TypeScript**, **HTML/CSS** (Intermediário)  
 
-- **Frameworks e Ferramentas:**  
-  - Proficiente: **Flask**, **Git & GitHub**, **Data Modeler**.  
-  - Intermediário: **React**, **Next.js**, **UML com Astah**.  
+- **Frameworks & Ferramentas:**  
+  - **Spring**, **Flask**, **Asp.NET#**  
+  - **React**, **Next.js**, **Git & GitHub**, **Data Modeler** , **Postman** 
 
 - **Desenvolvimento de APIs:**  
-  - Experiência em **API Rest**.  
+  - **API REST** 
 
-- **Metodologias de Trabalho:**  
-  - **Ágil**, com práticas de colaboração e integração contínua.  
+- **Banco de Dados:**  
+  - **Oracle Database**, **PostgreSQL**, **MySql**  
+
+- **Metodologias:**  
+  - **Ágil (Scrum/Kanban)**, **Boas práticas de Clean Code**  
 
 ---
 
-## 🌐 **Projetos em Destaque**
+## 🌐 **Projetos em Destaque**  
+
+### 🔧 [ChatMech - Assistência Automotiva](https://github.com/ViniciuSaeSouza/Chatmech-Java)  
+> **Tecnologias:** Java, Jersey (JAX-RS), Oracle, Hibernate  
+>  
+> API REST para suporte automotivo, ajudando motoristas e oficinas a identificarem problemas mecânicos com mais facilidade.  
+
+### 📊 [Spring API FIPE](https://github.com/ViniciuSaeSouza/Spring-API-FIPE)  
+> **Tecnologias:** Java, Spring Boot, API Rest, Maven, Spring  
+>  
+> Aplicação que consome a API da **Tabela FIPE**, permitindo a consulta de valores médios de veículos diretamente pelo console da **IDE IntelliJ**.  
 
 ### 🔢 [Jogo de Adivinhação](https://github.com/ViniciuSaeSouza/Jogo_adivinhacao_numero_secreto)  
-Um jogo interativo que explora lógica de programação com funções e listas. Desenvolvido durante o curso da Alura.  
+> Pequeno jogo interativo criado durante o curso da Alura, explorando lógica de programação e manipulação de listas.  
 
-### 🌟 [Geek-Vengers](https://github.com/ViniciuSaeSouza/geek-vengers)  
-Projeto front-end avaliativo utilizando **Next.js**, **TypeScript** e **Tailwind CSS**.  
+### 💡 [Geek-Vengers](https://github.com/ViniciuSaeSouza/geek-vengers)  
+> Projeto front-end utilizando **Next.js**, **TypeScript** e **Tailwind CSS**.  
 
-### 🛠️ [Chatmech-Java](https://github.com/ViniciuSaeSouza/Chatmech-Java)  
-Uma API REST desenvolvida em **Java** para gestão de serviços mecânicos, explorando boas práticas de back-end e estruturação de dados.  
-
-### 💡 [Projeto Fokus](https://github.com/ViniciuSaeSouza/Projeto-Fokus)  
-Aplicação para manipulação do DOM com **JavaScript**, desenvolvida durante o curso da Alura.  
+### 🕒 [Projeto Fokus](https://github.com/ViniciuSaeSouza/Projeto-Fokus)  
+> Aplicação para manipulação do DOM com **JavaScript**, desenvolvida durante um curso da Alura.  
 
 ---
 
 ## 📚 **Atualmente Aprendendo**
 
-- **Avançando em:** React, Next.js e APIs com Flask.  
+- **Avançando em:** Srping, .NET e DevOps.  
 - **Explorando:** Integração de sistemas com SQL e Desenvolvimento Java.  
+- **Disciplinas do 2º ano da faculdade:**  
+  - **Advanced Business Development with .NET**  
+  - **Compliance, Quality Assurance & Tests**  
+  - **DevOps Tools & Cloud Computing**  
+  - **Disruptive Architectures: IoT, IoB & Generative IA**  
+  - **Java Advanced**  
+  - **Mastering Relational and Non-Relational Database**  
+  - **Mobile Application Development**  
+  - **Nano Courses**  
 
 ---
 
-## 🤝 **Conecte-se Comigo**
+## 🤝 **Conecte-se Comigo**  
 
-Adoro colaborar em projetos e trocar conhecimentos sobre desenvolvimento de software. Sinta-se à vontade para me contatar!  
+💬 Adoro colaborar e trocar conhecimentos! Se tiver sugestões, feedbacks ou quiser conversar sobre tecnologia, entre em contato.  
 
 📧 [viniciusaesouza@gmail.com](mailto:viniciusaesouza@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/vinicius-saes)  
 💻 [GitHub](https://github.com/ViniciuSaeSouza)  
+
