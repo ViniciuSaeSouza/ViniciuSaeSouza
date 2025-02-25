@@ -9,7 +9,7 @@
 
 ## 🌟 **Sobre Mim**  
 
-Sou um **desenvolvedor de software em formação**, apaixonado por tecnologia e sempre em busca de desafios. Meu foco é desenvolvimento **backend**, APIs e banco de dados, com experiência prática em **Java, Python e Oracle SQL**.  
+Sou um **desenvolvedor de software em formação**, apaixonado por tecnologia e sempre em busca de desafios. Meu foco é desenvolvimento **backend** e full stack, APIs e banco de dados, com experiência prática em **Java, Python , Oracle SQL e React**.  
 
 - 🎓 **Educação:**  
   - **Tecnologia em Análise e Desenvolvimento de Sistemas** – FIAP (Concluído em 2025).  
