@@ -48,13 +48,20 @@ Sou um **desenvolvedor de software em formação**, apaixonado por tecnologia e 
 >  
 > API REST para suporte automotivo, ajudando motoristas e oficinas a identificarem problemas mecânicos com mais facilidade.  
 
+### 🧠 [Lumiere] - Detecção de Ocorrências com Visão Computacional
+> **Tecnologias**: Python, Roboflow, OpenCV, NumPy
+>
+> Projeto de Visão Computacional que detecta motos estacionadas em zonas proibidas usando câmera e IA, idealizado para o Desafio Global Solutions FIAP.
+
+### 🏦 [Desafio Itaú] - API REST com Spring
+> Tecnologias: Java, Spring Boot, Spring Data JPA, PostgreSQL, OpenAPI
+>
+> API RESTful desenvolvida como parte de um processo seletivo do Itaú, incluindo cadastro e listagem de transações com documentação no Swagger.
+
 ### 📊 [Spring API FIPE](https://github.com/ViniciuSaeSouza/Spring-API-FIPE)  
 > **Tecnologias:** Java, Spring Boot, API Rest, Maven, Spring  
 >  
-> Aplicação que consome a API da **Tabela FIPE**, permitindo a consulta de valores médios de veículos diretamente pelo console da **IDE IntelliJ**.  
-
-### 🔢 [Jogo de Adivinhação](https://github.com/ViniciuSaeSouza/Jogo_adivinhacao_numero_secreto)  
-> Pequeno jogo interativo criado durante o curso da Alura, explorando lógica de programação e manipulação de listas.  
+> Aplicação que consome a API da **Tabela FIPE**, permitindo a consulta de valores médios de veículos diretamente pelo console da **IDE IntelliJ**.
 
 ### 💡 [Geek-Vengers](https://github.com/ViniciuSaeSouza/geek-vengers)  
 > Projeto front-end utilizando **Next.js**, **TypeScript** e **Tailwind CSS**.  
