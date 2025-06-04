@@ -48,12 +48,12 @@ Sou um **desenvolvedor de software em formação**, apaixonado por tecnologia e 
 >  
 > API REST para suporte automotivo, ajudando motoristas e oficinas a identificarem problemas mecânicos com mais facilidade.  
 
-### 🧠 [Lumiere] - Detecção de Ocorrências com Visão Computacional
+### 🧠 [Lumiere](https://github.com/ViniciuSaeSouza/Lumiere-Python) - Detecção de Ocorrências com Visão Computacional
 > **Tecnologias**: Python, Roboflow, OpenCV, NumPy
 >
 > Projeto de Visão Computacional que detecta motos estacionadas em zonas proibidas usando câmera e IA, idealizado para o Desafio Global Solutions FIAP.
 
-### 🏦 [Desafio Itaú] - API REST com Spring
+### 🏦 [Desafio Itaú](https://github.com/ViniciuSaeSouza/desafio-itau) - API REST com Spring
 > Tecnologias: Java, Spring Boot, Spring Data JPA, PostgreSQL, OpenAPI
 >
 > API RESTful desenvolvida como parte de um processo seletivo do Itaú, incluindo cadastro e listagem de transações com documentação no Swagger.
