@@ -1,97 +1,90 @@
-# 👨‍💻 **Vinícius Saes**  
+# 👨‍💻 Vinícius Saes
 
-🎯 **Desenvolvedor de Software | Estudante de ADS | Apaixonado por Tecnologia**  
+🎯 **Desenvolvedor de Software | Estudante de ADS | Apaixonado por Tecnologia**
 
 📍 São Paulo, Brasil  
-📧 [E-mail](mailto:viniciusaesouza@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/vinicius-saes) | 💻 [GitHub](https://github.com/ViniciuSaeSouza)  
+📧 [E-mail](mailto:viniciusaesouza@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/vinicius-saes) | 💻 [GitHub](https://github.com/ViniciuSaeSouza)
 
 ---
 
-## 🌟 **Sobre Mim**  
+## 🌟 Sobre Mim
 
-Sou um **desenvolvedor de software em formação**, apaixonado por tecnologia e sempre em busca de desafios. Meu foco é desenvolvimento **backend** e full stack, APIs e banco de dados, com experiência prática em **Java, Python , Oracle SQL e React**.  
+Sou um desenvolvedor de software em formação movido por desafios e pela vontade de impactar positivamente a sociedade com tecnologia. Tenho foco em desenvolvimento **backend** e **full stack**, APIs, bancos de dados e integração de sistemas. Busco sempre aprender e colaborar em soluções inovadoras.
 
-- 🎓 **Educação:**  
-  - **Tecnologia em Análise e Desenvolvimento de Sistemas** – FIAP (Em andamento).  
-  - **Bacharelado em Publicidade e Propaganda** – Mackenzie (Concluído em 2020).  
+- 🎓 **Formação:**  
+  - Análise e Desenvolvimento de Sistemas (FIAP, em andamento)  
+  - Publicidade e Propaganda (Mackenzie, 2020)
 
-- 💼 **Objetivo Profissional:**  
-  - Buscando meu primeiro **estágio em tecnologia** para aplicar e aprimorar meus conhecimentos.  
-
----
-
-## 🚀 **Habilidades Técnicas**  
-
-- **Linguagens:**  
-  - **Java**, **Python**, **Oracle SQL** (Proficiente)  
-  - **JavaScript/TypeScript**, **HTML/CSS** (Intermediário)  
-
-- **Frameworks & Ferramentas:**  
-  - **Spring**, **Flask**, **Asp.NET#**  
-  - **React**, **Next.js**, **Git & GitHub**, **Data Modeler** , **Postman** 
-
-- **Desenvolvimento de APIs:**  
-  - **API REST** 
-
-- **Banco de Dados:**  
-  - **Oracle Database**, **PostgreSQL**, **MySql**  
-
-- **Metodologias:**  
-  - **Ágil (Scrum/Kanban)**, **Boas práticas de Clean Code**  
+- 💼 **Objetivo:**  
+  - Em busca do primeiro estágio em tecnologia para aplicar e expandir meus conhecimentos.
 
 ---
 
-## 🌐 **Projetos em Destaque**  
+## 🚀 Habilidades Técnicas
 
-### 🔧 [ChatMech - Assistência Automotiva](https://github.com/ViniciuSaeSouza/Chatmech-Java)  
-> **Tecnologias:** Java, Jersey (JAX-RS), Oracle, Hibernate  
->  
-> API REST para suporte automotivo, ajudando motoristas e oficinas a identificarem problemas mecânicos com mais facilidade.  
-
-### 🧠 [Lumiere](https://github.com/ViniciuSaeSouza/Lumiere-Python) - Detecção de Ocorrências com Visão Computacional
-> **Tecnologias**: Python, Roboflow, OpenCV, NumPy
->
-> Projeto de Visão Computacional que detecta motos estacionadas em zonas proibidas usando câmera e IA, idealizado para o Desafio Global Solutions FIAP.
-
-### 🏦 [Desafio Itaú](https://github.com/ViniciuSaeSouza/desafio-itau) - API REST com Spring
-> Tecnologias: Java, Spring Boot, Spring Data JPA, PostgreSQL, OpenAPI
->
-> API RESTful desenvolvida como parte de um processo seletivo do Itaú, incluindo cadastro e listagem de transações com documentação no Swagger.
-
-### 📊 [Spring API FIPE](https://github.com/ViniciuSaeSouza/Spring-API-FIPE)  
-> **Tecnologias:** Java, Spring Boot, API Rest, Maven, Spring  
->  
-> Aplicação que consome a API da **Tabela FIPE**, permitindo a consulta de valores médios de veículos diretamente pelo console da **IDE IntelliJ**.
-
-### 💡 [Geek-Vengers](https://github.com/ViniciuSaeSouza/geek-vengers)  
-> Projeto front-end utilizando **Next.js**, **TypeScript** e **Tailwind CSS**.  
-
-### 🕒 [Projeto Fokus](https://github.com/ViniciuSaeSouza/Projeto-Fokus)  
-> Aplicação para manipulação do DOM com **JavaScript**, desenvolvida durante um curso da Alura.  
+- **Linguagens:** Java, Python, Oracle SQL, JavaScript/TypeScript, HTML/CSS
+- **Frameworks & Ferramentas:** Spring, Flask, .NET, React, Next.js, Expo, Git/GitHub, Postman, Data Modeler
+- **APIs:** REST, integração com serviços externos
+- **Banco de Dados:** Oracle, PostgreSQL, MySQL
+- **Metodologias:** Scrum, Kanban, Clean Code
 
 ---
 
-## 📚 **Atualmente Aprendendo**
+## 🏆 Projetos em Destaque
 
-- **Avançando em:** Srping, .NET e DevOps.  
-- **Explorando:** Integração de sistemas com SQL e Desenvolvimento Java.  
-- **Disciplinas do 2º ano da faculdade:**  
-  - **Advanced Business Development with .NET**  
-  - **Compliance, Quality Assurance & Tests**  
-  - **DevOps Tools & Cloud Computing**  
-  - **Disruptive Architectures: IoT, IoB & Generative IA**  
-  - **Java Advanced**  
-  - **Mastering Relational and Non-Relational Database**  
-  - **Mobile Application Development**  
-  - **Nano Courses**  
+### 🧠 [Lumiere-Python](https://github.com/ViniciuSaeSouza/Lumiere-Python)
+Sistema inteligente em Python para gerenciamento e análise de consumo de energia elétrica. Permite cadastro de usuários, extração automática de dados de contas de luz via PDF e geração de gráficos mensais para acompanhamento e economia.
+> **Tecnologias:** Python, Oracle SQL, PyMuPDF
 
 ---
 
-## 🤝 **Conecte-se Comigo**  
+### 🏦 [Desafio Itaú](https://github.com/ViniciuSaeSouza/desafio-itau)
+API RESTful desenvolvida para um desafio técnico, focada no registro e estatísticas de transações financeiras. Implementa endpoints robustos, validação, tratamento de erros e estrutura profissional voltada a microserviços.
+> **Tecnologias:** Java 21, Spring Boot 3, Maven, PostgreSQL, Lombok
 
-💬 Adoro colaborar e trocar conhecimentos! Se tiver sugestões, feedbacks ou quiser conversar sobre tecnologia, entre em contato.  
+---
+
+### 💡 [Geek-Vengers](https://github.com/ViniciuSaeSouza/geek-vengers)
+Projeto front-end responsivo criado em grupo, com interface moderna e performance otimizada para múltiplos dispositivos. Foco em boas práticas de código e usabilidade.
+> **Tecnologias:** Next.js, TypeScript, Tailwind CSS
+
+---
+
+### 📱 [+Água Mobile (gs-mobile)](https://github.com/ViniciuSaeSouza/gs-mobile)
+Aplicativo mobile para gestão inteligente de reservatórios hídricos em prédios residenciais, integrado a sensores IoT e API própria. Permite monitoramento em tempo real, dashboards, notificações e gestão de usuários/unidades.
+> **Tecnologias:** React Native (Expo), Java (API), Oracle, OpenWeather API, IoT
+
+---
+
+### ⚙️ [DevOps-Mottu](https://github.com/ViniciuSaeSouza/DevOps-Mottu)
+Projeto focado em práticas DevOps, automação de pipelines, integração contínua e infraestrutura como código. [Descrição detalhada pode ser incluída se você fornecer ou atualizar o README deste repositório.]
+
+---
+
+### 🛰 [+Água IoT (IoT-GS-2025)](https://github.com/ViniciuSaeSouza/IoT-GS-2025)
+Solução IoT para monitoramento em tempo real do consumo e qualidade da água, com dashboard interativo em Node-RED e integração de sensores via MQTT. Permite visualização, alertas, histórico e interface amigável para síndicos e moradores.
+> **Tecnologias:** ESP32, C++ (Arduino), Node-RED, MQTT, HiveMQ
+
+---
+
+### 💧 [+Água API](https://github.com/ViniciuSaeSouza/Api_maisAgua)
+API REST desenvolvida em .NET para o monitoramento e gestão de dispositivos de medição hídrica, seguindo arquitetura limpa, validações robustas e documentação automática via Swagger.
+> **Tecnologias:** .NET 8, C# 12, Entity Framework Core, Oracle, Swagger
+
+---
+
+## 📚 Atualmente Aprendendo
+
+- Aprofundando em: Spring, .NET, DevOps
+- Explorando: Integração de sistemas, Cloud, Mobile
+- Disciplinas recentes: Arquiteturas Disruptivas (IoT, IA), Desenvolvimento Mobile, Bancos de Dados Avançados
+
+---
+
+## 🤝 Vamos Conectar?
+
+Adoro trocar ideias, colaborar e aprender em conjunto! Sinta-se à vontade para me chamar para conversar sobre tecnologia, projetos ou sugestões.
 
 📧 [viniciusaesouza@gmail.com](mailto:viniciusaesouza@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/vinicius-saes)  
-💻 [GitHub](https://github.com/ViniciuSaeSouza)  
-
+💻 [GitHub](https://github.com/ViniciuSaeSouza)
