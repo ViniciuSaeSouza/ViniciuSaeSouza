@@ -22,10 +22,10 @@ Sou um desenvolvedor de software em formação movido por desafios e pela vontad
 
 ## 🚀 Habilidades Técnicas
 
-- **Linguagens:** Java, Python, Oracle SQL, JavaScript/TypeScript, HTML/CSS
-- **Frameworks & Ferramentas:** Spring, Flask, .NET, React, Next.js, Expo, Git/GitHub, Postman, Data Modeler
+- **Linguagens:** C#, Java, Oracle SQL
+- **Frameworks & Ferramentas:** .NET, Spring
 - **APIs:** REST, integração com serviços externos
-- **Banco de Dados:** Oracle, PostgreSQL, MySQL
+- **Banco de Dados:** Oracle, PostgreSQL, MongoDB
 - **Metodologias:** Scrum, Kanban, Clean Code
 
 ---
