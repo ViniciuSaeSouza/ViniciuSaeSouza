@@ -32,6 +32,12 @@ Sou um desenvolvedor de software em formação movido por desafios e pela vontad
 
 ## 🏆 Projetos em Destaque
 
+### 💧 [+Água API](https://github.com/ViniciuSaeSouza/Api_maisAgua)
+API REST desenvolvida em .NET para o monitoramento e gestão de dispositivos de medição hídrica, seguindo arquitetura limpa, validações robustas e documentação automática via Swagger.
+> **Tecnologias:** .NET 8, C# 12, Entity Framework Core, Oracle, Swagger
+
+---
+
 ### 🧠 [Lumiere-Python](https://github.com/ViniciuSaeSouza/Lumiere-Python)
 Sistema inteligente em Python para gerenciamento e análise de consumo de energia elétrica. Permite cadastro de usuários, extração automática de dados de contas de luz via PDF e geração de gráficos mensais para acompanhamento e economia.
 > **Tecnologias:** Python, Oracle SQL, PyMuPDF
@@ -56,22 +62,17 @@ Aplicativo mobile para gestão inteligente de reservatórios hídricos em prédi
 
 ---
 
-### ⚙️ [DevOps-Mottu](https://github.com/ViniciuSaeSouza/DevOps-Mottu)
-Projeto focado em práticas DevOps, automação de pipelines, integração contínua e infraestrutura como código. [Descrição detalhada pode ser incluída se você fornecer ou atualizar o README deste repositório.]
-
----
-
 ### 🛰 [+Água IoT (IoT-GS-2025)](https://github.com/ViniciuSaeSouza/IoT-GS-2025)
 Solução IoT para monitoramento em tempo real do consumo e qualidade da água, com dashboard interativo em Node-RED e integração de sensores via MQTT. Permite visualização, alertas, histórico e interface amigável para síndicos e moradores.
 > **Tecnologias:** ESP32, C++ (Arduino), Node-RED, MQTT, HiveMQ
 
+--
+
+### ⚙️ [DevOps-Mottu](https://github.com/ViniciuSaeSouza/DevOps-Mottu)
+Projeto focado em práticas DevOps, automação de pipelines, integração contínua e infraestrutura como código.
+
 ---
 
-### 💧 [+Água API](https://github.com/ViniciuSaeSouza/Api_maisAgua)
-API REST desenvolvida em .NET para o monitoramento e gestão de dispositivos de medição hídrica, seguindo arquitetura limpa, validações robustas e documentação automática via Swagger.
-> **Tecnologias:** .NET 8, C# 12, Entity Framework Core, Oracle, Swagger
-
----
 
 ## 📚 Atualmente Aprendendo
 
