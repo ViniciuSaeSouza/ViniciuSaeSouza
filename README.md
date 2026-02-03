@@ -12,7 +12,7 @@
 Sou um desenvolvedor de software em formação movido por desafios e pela vontade de impactar positivamente a sociedade com tecnologia. Tenho foco em desenvolvimento **backend** e **full stack**, APIs, bancos de dados e integração de sistemas. Busco sempre aprender e colaborar em soluções inovadoras.
 
 - 🎓 **Formação:**  
-  - Análise e Desenvolvimento de Sistemas (FIAP, em andamento)  
+  - Análise e Desenvolvimento de Sistemas (FIAP, 2025)  
   - Publicidade e Propaganda (Mackenzie, 2020)
 
 - 💼 **Objetivo:**  
